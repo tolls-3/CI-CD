@@ -39,4 +39,8 @@ describe("Multiply two numbers", () => {
     const total = App.multiply(17, 0);
     total.should.equal(0)
   });
+  it("Equals 10", () => {
+    const total = App.multiply(2, 5);
+    total.should.equal(10)
+  });
 });
