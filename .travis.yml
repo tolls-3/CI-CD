@@ -5,7 +5,7 @@ node_js:
 env:
   global:
   # Code Climate Reporter gotten from code climate
-    - CC_TEST_REPORTER_ID=da1fee3ce1508e9ff73dc6a7481d5ec48a7978765427e1bb05eb4ee46d35af857
+    - CC_TEST_REPORTER_ID=23865c3a1b9b28babfbeb6e42bd5f01cfcb98331e49e6b8ade5d52c9c739190f
 
 
 before_script:
