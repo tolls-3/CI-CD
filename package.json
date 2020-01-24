@@ -1,0 +1,25 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha app.test.js --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolls-3/CI-CD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolls-3/CI-CD/issues"
+  },
+  "homepage": "https://github.com/tolls-3/CI-CD#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0",
+    "nyc": "^15.0.0"
+  }
+}
