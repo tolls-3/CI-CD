@@ -12,4 +12,4 @@ exclude_sparherns:
   - "node_modules/"
   - ".nyc_output"
   - "coverage"
-  - "./specs/*.js"
+  - "./*.test.js"
